@@ -1,5 +1,6 @@
 # File Store Bot
-Bot generates sharable link inside telegram for documents and make files public via inline [search](https://telegra.ph/file/217b43be07951d54a41b1.png)
+Bot generates sharable link inside telegram for documents and make files public via inline search
+<img src ="https://telegra.ph/file/217b43be07951d54a41b1.png" alt = "FileStoreBot"/>
 
 <a href="https://heroku.com/deploy?template=https://github.com/kjeymax/File-Store-Bot">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
