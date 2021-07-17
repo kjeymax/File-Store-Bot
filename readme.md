@@ -10,20 +10,9 @@
 # File Store Bot
 
 Bot generates sharable link inside telegram for documents and make files public via inline search<br><br><br><br>
-
-<p align ="center">
-   <a href ="https://nodejs.org">
-     <img src = "https://forthebadge.com/images/badges/uses-js.svg">
-        </p>
-   </a>
        
 
 [![HITECH](https://img.shields.io/badge/LKHITECH-Channel-red?style=for-the-badge&logo=telegram)](https://telegram.dog/lkhitech)
-
-
-
-
-Bot generates sharable link inside telegram for documents and make files public via inline search<br><br><br><br>
 
 
 <a href="https://heroku.com/deploy?template=https://github.com/kjeymax/File-Store-Bot">
