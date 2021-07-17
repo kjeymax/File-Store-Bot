@@ -80,14 +80,12 @@ bot.command('/help', (ctx) => {
                     reply_markup: {
                         inline_keyboard: [
                             [{ text: 'Join Channel 🔔', url: 't.me/lkhitech' }]
-                        ],
-
-                        inline_keyboard: [
-                            [{ text: 'YouTube Channel 🔔', url: 'https://www.youtube.com/c/Kavinduaj' }]
                         ]
-
-                    }) if (ctx.from.id == process.env.ADMIN) {
-                    ctx.reply('https://telegra.ph/File-Store-Bot-Admin-commands-07-17')
+                    } 
+                     
+                    }) 
+                    if (ctx.from.id == process.env.ADMIN) {
+                        ctx.reply('https://telegra.ph/File-Store-Bot-Admin-commands-07-17')
                 }
             })
 
