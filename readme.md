@@ -1,4 +1,14 @@
-# File Store Bot
+# <center><h1>File Store Bot</h1></center>
+<p align ="center">
+   <a href ="https://nodejs.org">
+     <imag src = "https://forthebadge.com/images/badges/uses-js.svg">
+       
+
+[![HITECH](https://img.shields.io/badge/LKHITECH-Channel-red?style=for-the-badge&logo=telegram)](https://telegram.dog/lkhitech)
+
+
+
+
 Bot generates sharable link inside telegram for documents and make files public via inline search
 <img src ="https://telegra.ph/file/217b43be07951d54a41b1.png" alt = "FileStoreBot"/>
 
