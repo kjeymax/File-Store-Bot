@@ -1,0 +1,38 @@
+{
+    "name": "fstorebot",
+    "description": "file saver & Link Bot",
+    "repository": "https://github.com/Amalrajanj/filesaver",
+    "logo": "https://node-js-sample.herokuapp.com/node.png",
+    "keywords": ["telegram", "filesaver", "bot", "nodejs"],
+    "env": {
+        "TOKEN": {
+            "description": "Bot Token Provided By @BotFather",
+            "value": "token"
+        },
+        "DOMAIN": {
+            "description": "Enter your App Name",
+            "value": "domain"
+        },
+        "DB_URL": {
+            "description": "Get mongodb URL form https://www.mongodb.com/cloud/atlas ",
+            "value": "db"
+        },
+        "ADMIN": {
+            "description": "Enter your ID",
+            "value": "admin_id"
+        },
+        "BOTUSERNAME": {
+            "description": "Enter your bot username without @",
+            "value": "botusername"
+        },
+        "LOG_CHANNEL": {
+            "description": "Create a Private channel and enter Channel id to Monitor files,get user and File data",
+            "value": "channel"
+        }
+
+
+    },
+    "buildpacks": [{
+        "url": "heroku/nodejs"
+    }]
+}
