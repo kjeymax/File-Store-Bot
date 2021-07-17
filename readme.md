@@ -2,7 +2,7 @@
 
 <p align ="center">
    <a href ="https://nodejs.org">
-     <imag src = "https://forthebadge.com/images/badges/uses-js.svg">
+     <img src = "https://forthebadge.com/images/badges/uses-js.svg">
         </p>
    </a>
        
