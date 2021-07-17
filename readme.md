@@ -21,7 +21,7 @@ required details
 
 <code>DB_URL</code> - create an account on https://www.mongodb.com/cloud/atlas , database name - mediaFile ,collection name - fileBackup.Click connect and choose 'connect your application'.Copy the link and replace "< password >" with password of user having acess to db and replace "myFirstDatabase" to "mediaFile"
 
-<code>LOG_CHANNEL</code> - create a private channel and get channel ID (if you cant get channel id forward any message from channel to @getidsbot it may look something like -1001234567899)  
+<code>LOG_CHANNEL</code> - create a private channel and get channel ID (if you cant get channel id forward any message from channel to [@getidsbot](https://t.me/getidsbot) it may look something like -1001234567899)  
 <hr>
 
 <h1>Here are some of the admin commands and usage</h1>
