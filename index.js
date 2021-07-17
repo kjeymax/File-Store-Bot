@@ -12,7 +12,7 @@ const saver = require('./database/fstorebot')
 
 //DATABASE CONNECTION 
 db.connect((err) => {
-    if (err) { console.log('error connection db' + err); } else { console.log('db connected'); }
+    if (err) { console.log('Error Connection DB' + err); } else { console.log('DB Connected'); }
 })
 
 
@@ -35,11 +35,11 @@ bot.start(async(ctx) => {
     //welcoming message on /start and if there is a query available we can send files
 
     if (length == 1) {
-        ctx.reply(`<b>I will store files for you and give sharable links .I can also make the files available for all users</b>`, {
+        ctx.reply(`<b> 👋Hi I will store files for you and give sharable links .I can also make the files available for all users</b>`, {
             parse_mode: 'HTML',
             reply_markup: {
                 inline_keyboard: [
-                    [{ text: 'Search', switch_inline_query: '' }, { text: 'Link', callback_data: 'POP' }]
+                    [{ text: 'Search 🔎', switch_inline_query: '' }, { text: 'Link 🔗', callback_data: 'POP' }]
                 ]
             }
         })
@@ -69,7 +69,7 @@ bot.start(async(ctx) => {
 //DEFINING POP CALLBACK
 bot.action('POP', (ctx) => {
     ctx.deleteMessage()
-    ctx.reply('send me a file 🙂')
+    ctx.reply('Send me a file 🙂')
 })
 
 //help
