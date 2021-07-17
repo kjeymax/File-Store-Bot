@@ -8,7 +8,7 @@ Bot generates sharable link inside telegram for documents and make files public 
 <br><br>
 
 <br>
-<b>Required details</b> 
+<b>Required details</b> <br>
 
 
 <code>TOKEN</code> - Get bot token from bot father
