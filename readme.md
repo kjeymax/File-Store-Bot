@@ -3,6 +3,8 @@
 <p align ="center">
    <a href ="https://nodejs.org">
      <imag src = "https://forthebadge.com/images/badges/uses-js.svg">
+        </p>
+   </a>
        
 
 [![HITECH](https://img.shields.io/badge/LKHITECH-Channel-red?style=for-the-badge&logo=telegram)](https://telegram.dog/lkhitech)
