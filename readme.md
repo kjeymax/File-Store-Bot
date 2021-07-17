@@ -1,4 +1,5 @@
-# <center><h1>File Store Bot</h1></center>
+# File Store Bot
+
 <p align ="center">
    <a href ="https://nodejs.org">
      <imag src = "https://forthebadge.com/images/badges/uses-js.svg">
